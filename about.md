@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Professional Information
-<img title="" alt="Alt text" src="https://github.com/clazarski/clazarski.github.io/blob/master/craigchicken.jpg">
+<img title="" alt="Alt text" src="https://github.com/clazarski/clazarski.github.io/blob/f86d577cdd7c46ce342eb349b35071e39246f5dd/craigchicken.jpg">
 
 * Math Department Chair, Cary Academy
 * National Board Certification in 9-12 Mathematics
