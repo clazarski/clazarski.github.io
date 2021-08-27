@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Personal Information
+Math Department Chair, Cary Academy
+National Board Certification in 9-12 Mathematics
+M.Ed. Math Education 
 
-### More Information
+### Publications
+[hypothesis testing exploration](https://www.statisticsteacher.org/2021/04/12/hypothesis-testing-exploration/)
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[craig_lazarski@caryacademy.org](mailto:craig_lazarski@caryacademy.org)
