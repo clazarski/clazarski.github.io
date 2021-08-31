@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Professional Information
-![Craig Chicken]({{ site.url }}/blob/master/craigchicken.jpg)
+![Craig Chicken](/blob/master/craigchicken.jpg)
 
 * Math Department Chair, Cary Academy
 * National Board Certification in 9-12 Mathematics
