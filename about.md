@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Professional Information
-![Craig Chicken](/images/craigchicken.jpg)
 
+![Craig Chicken](/images/craigchicken.jpg)
+### Professional Information
 * Math Department Chair, Cary Academy
 * National Board Certification in 9-12 Mathematics
 * M.Ed. Math Education 
