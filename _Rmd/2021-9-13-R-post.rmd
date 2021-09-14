@@ -6,7 +6,7 @@ date: "September 13, 2021"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.path = "images/")
+knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
 
 ```
 
