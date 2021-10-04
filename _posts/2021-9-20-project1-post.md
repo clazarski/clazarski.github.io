@@ -24,7 +24,9 @@ Where to begin with the challenges:
 • In your blog post, provide a link to your github pages repo and the usual repo as well! The URL to this (rendered) blog post is what you will submit at the project assignment link
 
 Github pages repo:  
+
 [https://clazarski.github.io/ST558_project/](Link)
   
 Regular repo:  
+
 [https://clazarski.github.io/ST558_project/](Link)
