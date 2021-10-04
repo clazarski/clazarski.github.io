@@ -29,4 +29,4 @@ Github pages repo:
   
 Regular repo:  
 
-[https://clazarski.github.io/ST558_project/](Link)
+[https://github.com/clazarski/ST558_project](Link)
