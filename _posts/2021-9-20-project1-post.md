@@ -25,8 +25,8 @@ Where to begin with the challenges:
 
 Github pages repo:  
 
-[https://clazarski.github.io/ST558_project/](Link)
+[https://clazarski.github.io/ST558_project/](https://clazarski.github.io/ST558_project/)
   
 Regular repo:  
 
-[https://github.com/clazarski/ST558_project](Link)
+[https://github.com/clazarski/ST558_project](https://github.com/clazarski/ST558_project)
