@@ -1,3 +1,9 @@
+Course Reflection
+================
+Craig Lazarski
+November 29, 2021
+
+
 •	what (if anything) has changed about what you think a data scientist is and what they do
 
 My impression regarding the role of communication that is involved for a data scientist has changed. My prior perception was that a data scientist would spend the majority of their time working on analyses and finding models but my impression now is it is much more about understanding a problem, interrogating a customer to understand better the context, and to present findings in a meaningful way. The analyses is a critical but much smaller role than I had previously understood.
