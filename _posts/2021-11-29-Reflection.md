@@ -10,7 +10,7 @@ My impression regarding the role of communication that is involved for a data sc
 
 •	what your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
-YesI love the opportunities that using R provides but hate my inability to use it more effectively. While I feel my knowledge has broadened, I still do not feel comfortable doing many things and don’t really understand the process R uses to do what it does. While there are tons of forums to find help, everyone seems to do something differently and I wonder what the most efficient/effective method is for completing a task. I will continue to use R, learn more about it, and hopefully reduce my frustration in the process.
+Yes! I love the opportunities that using R provides but hate my inability to use it more effectively. While I feel my knowledge has broadened, I still do not feel comfortable doing many things and don’t really understand the process R uses to do what it does. While there are tons of forums to find help, everyone seems to do something differently and I wonder what the most efficient/effective method is for completing a task. I will continue to use R, learn more about it, and hopefully reduce my frustration in the process.
 
 •	what things are you going to do differently in practice now that you've had this course?
 
